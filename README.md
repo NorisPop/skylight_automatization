@@ -67,9 +67,4 @@ The application was validated first in the **Siemens LOGO! Soft Comfort** simula
 
 Siemens LOGO! PLC, Siemens LOGO! Soft Comfort (FBD), 24 V DC Industrial Control Wiring, Photoelectric Sensors.
 
-## Repository Structure
 
-```text
-skylight-automation-siemens-logo/
-├── README.md
-└── docs/            # Full project documentation (PDF)
